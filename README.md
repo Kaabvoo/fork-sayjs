@@ -1,3 +1,5 @@
+*** This a a fork from [SayJs](https://github.com/Marak/say.js) ***
+
 <img src="https://travis-ci.org/Marak/say.js.svg?branch=master" />
 
 <img src="https://github.com/Marak/say.js/raw/master/logo.png" />
