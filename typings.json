@@ -1,4 +1,4 @@
 {
-  "name": "say",
+  "name": "async-say",
   "main": "index.d.ts"
 }

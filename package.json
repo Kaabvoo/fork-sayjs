@@ -1,5 +1,5 @@
 {
-  "name": "say",
+  "name": "async-say",
   "description": "TTS (Text To Speech) Module for Node.js",
   "version": "0.16.0",
   "author": "Marak Squires",
@@ -21,6 +21,7 @@
     "standard": "^12.0.1"
   },
   "dependencies": {
+    "async-say": "^0.16.0",
     "one-time": "0.0.4"
   }
 }
